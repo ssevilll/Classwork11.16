@@ -1,0 +1,14 @@
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\bin\Debug\net8.0\Classwork11.16.Task1.exe
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\bin\Debug\net8.0\Classwork11.16.Task1.deps.json
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\bin\Debug\net8.0\Classwork11.16.Task1.runtimeconfig.json
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\bin\Debug\net8.0\Classwork11.16.Task1.dll
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\bin\Debug\net8.0\Classwork11.16.Task1.pdb
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.AssemblyInfoInputs.cache
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.AssemblyInfo.cs
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.csproj.CoreCompileInputs.cache
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.dll
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\refint\Classwork11.16.Task1.dll
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.pdb
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.genruntimeconfig.cache
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\ref\Classwork11.16.Task1.dll
