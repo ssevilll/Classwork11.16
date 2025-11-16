@@ -6,7 +6,7 @@ namespace Classwork11._16.Task1
     {
         static void Main(string[] args)
         {
-            int aznAmount = 170;
+            int aznAmount = 100;
             Program program = new Program();
             double usdAmount = program.Exchange(aznAmount, Currecy.Usd);
             double eurAmount = program.Exchange(aznAmount, Currecy.Eur);
@@ -15,9 +15,9 @@ namespace Classwork11._16.Task1
             Console.WriteLine($"{aznAmount} AZN is {eurAmount} EUR");
             Console.WriteLine($"{aznAmount} AZN is {tryAmount} TRY");
         }
-        public double Exchange(double azn, Currecy currecy)
+        public double Exchange(double azn, Enum currecy)
         {
-            if (currecy == Currecy.Eur || currecy==Currecy.Try || currecy==Currecy.Usd)
+            if (currecy is Currecy)
             {
                 switch (currecy)
                 {

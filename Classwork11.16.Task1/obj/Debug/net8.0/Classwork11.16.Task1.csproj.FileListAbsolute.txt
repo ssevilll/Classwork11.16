@@ -12,3 +12,4 @@ C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\re
 C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.pdb
 C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.genruntimeconfig.cache
 C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\ref\Classwork11.16.Task1.dll
+C:\Users\sevilsb\Desktop\Classwork11.16\Classwork11.16.Task1\obj\Debug\net8.0\Classwork11.16.Task1.sourcelink.json
